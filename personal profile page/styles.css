@@ -1,0 +1,46 @@
+/* Element Selectors */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: navy;
+}
+
+h2 {
+  color: darkgreen;
+}
+
+p {
+  color: #333;
+}
+
+a {
+  color: purple;
+  text-decoration: none;
+}
+
+/* Class Selector */
+
+.tagline {
+  color: gray;
+  font-style: italic;
+}
+
+/* ID Selectors */
+
+#name {
+  text-transform: uppercase;
+}
+
+#quote {
+  color: darkred;
+}
+
+/* Image Styling */
+
+img {
+  width: 250px;
+}
